@@ -4,11 +4,11 @@ repo: sts # The name of this repository
 
 sites:
   - name: Ha Manh Thang
-    url: https://hamanhthang.com/
+    url: https://hamanhthang.com
   - name: DHS
     url: https://dhs.vn
   - name: Trace Travel Vietnam
-    url: https://tracetravelvietnam.com/
+    url: https://tracetravelvietnam.com
   - name: Son Tung Nguyen
     url: https://sontungnguyen.com
 
