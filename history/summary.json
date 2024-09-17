@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 960,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "time": 643,
+    "timeDay": 465,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 137,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 330,
+    "timeDay": 416,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 99,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 103,
+    "timeDay": 73,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sontungnguyen.com.ico",
     "slug": "son-tung-nguyen",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 187,
-    "timeDay": 207,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
-    "dailyMinutesDown": {
-      "2024-09-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 188,
+    "timeDay": 189,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {}
   }
 ]
