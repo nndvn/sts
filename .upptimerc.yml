@@ -11,6 +11,8 @@ sites:
     url: https://tracetravelvietnam.com
   - name: Son Tung Nguyen
     url: https://sontungnguyen.com
+  - name: Hayho.co
+    url: https://hayho.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
