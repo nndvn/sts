@@ -4,18 +4,20 @@
     "url": "https://hamanhthang.com",
     "icon": "https://icons.duckduckgo.com/ip3/hamanhthang.com.ico",
     "slug": "ha-manh-thang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 381,
-    "timeWeek": 419,
-    "timeMonth": 434,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "time": 544,
+    "timeDay": 4976,
+    "timeWeek": 1563,
+    "timeMonth": 720,
+    "timeYear": 544,
+    "dailyMinutesDown": {
+      "2025-01-12": 0
+    }
   },
   {
     "name": "DHS",
@@ -52,7 +54,7 @@
     "timeMonth": 98,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-01-12": 116,
+      "2025-01-12": 562,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
