@@ -4,19 +4,19 @@
     "url": "https://hamanhthang.com",
     "icon": "https://icons.duckduckgo.com/ip3/hamanhthang.com.ico",
     "slug": "ha-manh-thang",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.89%",
-    "time": 753,
-    "timeDay": 12774,
-    "timeWeek": 4542,
-    "timeMonth": 1558,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "83.10%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.86%",
+    "time": 969,
+    "timeDay": 17019,
+    "timeWeek": 7063,
+    "timeMonth": 2387,
+    "timeYear": 969,
     "dailyMinutesDown": {
-      "2025-01-12": 202
+      "2025-01-12": 244
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 98,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-01-12": 808,
+      "2025-01-12": 849,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
