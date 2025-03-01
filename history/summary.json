@@ -13,7 +13,7 @@
     "time": 830,
     "timeDay": 515,
     "timeWeek": 404,
-    "timeMonth": 450,
+    "timeMonth": 447,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2025-01-12": 244
@@ -33,7 +33,7 @@
     "time": 333,
     "timeDay": 338,
     "timeWeek": 443,
-    "timeMonth": 387,
+    "timeMonth": 389,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -44,17 +44,18 @@
     "slug": "trace-travel-vietnam",
     "status": "down",
     "uptime": "0.91%",
-    "uptimeDay": "34.80%",
+    "uptimeDay": "26.63%",
     "uptimeWeek": "8.35%",
-    "uptimeMonth": "0.51%",
+    "uptimeMonth": "10.37%",
     "uptimeYear": "0.91%",
     "time": 119,
     "timeDay": 130,
     "timeWeek": 129,
-    "timeMonth": 130,
+    "timeMonth": 131,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-02-28": 939,
+      "2025-03-01": 116,
+      "2025-02-28": 941,
       "2025-02-27": 1283,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -151,7 +152,7 @@
     "time": 175,
     "timeDay": 119,
     "timeWeek": 168,
-    "timeMonth": 175,
+    "timeMonth": 169,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -169,7 +170,7 @@
     "time": 150,
     "timeDay": 114,
     "timeWeek": 167,
-    "timeMonth": 161,
+    "timeMonth": 159,
     "timeYear": 150,
     "dailyMinutesDown": {}
   }
